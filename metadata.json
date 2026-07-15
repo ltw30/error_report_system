@@ -1,0 +1,8 @@
+{
+  "name": "SRE Sentinel",
+  "description": "실시간 텔레메트리, 로그 이상 현상 진단, AI 기반 사후 장애 보고서 편찬, 원클릭 롤백 오케스트레이션 및 용량 예측 계획을 아우르는 지능형 통합 SRE 센티넬 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
